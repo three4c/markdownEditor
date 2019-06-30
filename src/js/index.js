@@ -5,6 +5,7 @@ import hljs from 'highlightjs';
 import 'highlight.js/styles/monokai.css'
 
 marked.setOptions({
+    breaks: true,
     highlight: function (code, lang) {
         return hljs.highlightAuto(code, lang).value
     }

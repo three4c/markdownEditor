@@ -1,11 +1,7 @@
 # markdownEditor
-Github Pages : https://three4c.github.io/markdownEditor
+Github Pages : https://three4c.github.io/markdownEditor  
+お世話になった記事 : [[解説]Parcel+Hyperappでマークダウンエディタを作る[JS]](https://qiita.com/sKawashima/items/ac8fad15b714d91b41f9)
 
-## お世話になった記事
-* [[解説]Parcel+Hyperappでマークダウンエディタを作る[JS]](https://qiita.com/sKawashima/items/ac8fad15b714d91b41f9)
-
-## 今後の展望
-* VueとFirebaseを使って拡張したい
 
 ## Build Setup
 ### install dependencies
